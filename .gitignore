@@ -4,3 +4,7 @@ out/
 dist/
 tsconfig.tsbuildinfo
 .idea/
+
+
+.nx/cache
+.nx/workspace-data
