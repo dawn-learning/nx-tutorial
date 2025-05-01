@@ -1,2 +1,2 @@
 # [nx-tutorial](https://nx.dev/getting-started/tutorials/typescript-packages-tutorial)
-🔖 create a task pipeline
+🔖 Use Nx Plugins to Enhance Your Workspace
